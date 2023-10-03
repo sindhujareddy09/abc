@@ -14,9 +14,9 @@
         <maven.compiler.target>11</maven.compiler.target>
         
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.organization>kummari</sonar.organization>
-        <sonar.projectKey>kummari_9amjavacodecheck</sonar.projectKey>
-        <sonar.login>2baa0adae29514924ebb83db2f2246f4d6ff952d</sonar.login>
+        <sonar.organization>sindhuja</sonar.organization>
+        <sonar.projectKey>sindhuja_sindhu</sonar.projectKey>
+        <sonar.login>afc002b77a7a51be1e99b877ad13ca6a0d2ba911</sonar.login>
 
     </properties>
 
